@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameRate</string>
+    <string name="login_titulo">GameRate</string>
+    <string name="login_subtitulo">Log in to rate your video games</string>
+    <string name="hint_usuario">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Log In</string>
+    <string name="texto_no_tengo_cuenta">Don\'t have an account? Sign up</string>
+    <string name="texto_tengo_cuenta">Already have an account? Log in</string>
+    <string name="msg_welcome">Welcome!</string>
+    <string name="msg_login_error">Incorrect username or password</string>
+    <string name="msg_connection_error">Server connection error</string>
+    <string name="msg_register_success">Registration successful!</string>
+    <string name="msg_register_error">Error: %1$s</string>
+
+    <string name="desc_add_game">Add video game</string>
+    <string name="txt_developer">Developer: </string>
+    <string name="txt_platforms">Platforms: </string>
+    <string name="txt_genero">Genres: </string>
+    <string name="txt_sin_desc">No description available.</string>
+    <string name="txt_score">Score: %.1f ★ (%d)</string>
+    <string name="txt_reviews_title">Reviews</string>
+    <string name="btn_add_review">Add review</string>
+    <string name="txt_rating_instruction">Rate from 1 to 10:</string>
+    <string name="hint_review">Write your review...</string>
+
+    <string name="titulo_form_videojuego">Video Game Form</string>
+    <string name="hint_titulo">Video game title</string>
+    <string name="hint_desarrollador">Developer / Studio</string>
+    <string name="hint_url_imagen">Image URL (Cover)</string>
+    <string name="hint_descripcion">Video game description</string>
+    <string name="label_generos">Genres:</string>
+    <string name="label_plataformas">Platforms:</string>
+    <string name="btn_guardar">SAVE VIDEO GAME</string>
+    <string name="ctx_menu_editar">Edit videogame</string>
+    <string name="ctx_menu_eliminar">Delete videogame</string>
+    <string name="msg_delete_success">Game deleted successfully</string>
+    <string name="msg_delete_error">Error deleting: %1$s</string>
+    <string name="msg_network_error">Network error: %1$s</string>
+
+    <string name="title_preferencias">Preferences</string>
+    <string name="switch_modo_oscuro">Dark Mode</string>
+    <string name="title_cuenta">Account</string>
+    <string name="btn_modificar_perfil">Edit Profile</string>
+    <string name="btn_cerrar_sesion">Log Out</string>
+    <string name="title_confirmacion">Log out</string>
+    <string name="msg_confirmar_logout">Are you sure you want to log out?</string>
+    <string name="btn_si">Yes</string>
+    <string name="btn_no">No</string>
+
+    <string name="dialog_titulo_eliminar">Delete video game</string>
+    <string name="dialog_mensaje_eliminar">Are you sure you want to delete \'%1$s\'? This action cannot be undone.</string>
+    <string name="dialog_boton_eliminar">Delete</string>
+    <string name="dialog_boton_cancelar">Cancel</string>
+
+    <string name="dialog_titulo_reseña">Write your review</string>
+    <string name="btn_publicar">Publish</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="toast_comentario_vacio">Empty review</string>
+
+    <string name="menu_ajustes">Settings</string>
+    <string name="menu_acerca">About us</string>
+
+    <string name="idioma_espanol">Spanish</string>
+    <string name="idioma_ingles">English</string>
+
+    <string name="dialog_titulo_perfil">Edit Profile</string>
+    <string name="label_usuario">Username:</string>
+    <string name="label_gmail">Email:</string>
+    <string name="label_password">Password:</string>
+    <string name="hint_usuario_input">Your username</string>
+    <string name="btn_confirmar">Confirm</string>
+    <string name="toast_actualizado">Profile updated</string>
+    <string name="toast_campos_vacios">Fill in all fields</string>
+
+    <string name="registro_titulo">Create account</string>
+    <string name="registro_subtitulo">Sign up to start playing</string>
+    <string name="hint_nombre">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_registrar">Sign up</string>
+    <string name="notif_welcome_title">Welcome to Gamerate!</string>
+    <string name="notif_welcome_short">Registration completed successfully.</string>
+    <string name="notif_welcome_long">Thanks for joining our gaming community. You can now explore games, manage your profile, and enjoy all the features we have prepared for you. Let the fun begin!</string>
+
+    <string name="about_title">About us</string>
+    <string name="about_description">GameRate is the ultimate application for video game lovers. Here you can explore, rate, and share your opinions with a passionate community.</string>
+    <string name="about_contact">Developed by: Jose Antonio\nContact: support@gamerate.com</string>
+    <string name="btn_soporte">Contact Support</string>
+    <string name="btn_compartir">Share App</string>
+    <string name="subject_soporte">Gamerate Support</string>
+    <string name="chooser_email">Send email</string>
+    <string name="text_compartir">Try Gamerate! The best app for gamers</string>
+    <string name="chooser_compartir">Share App</string>
+</resources>

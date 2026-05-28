@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.GameRate" parent="Theme.Material3.DayNight">
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="colorPrimary">#6200EE</item>
+    </style>
+
+    <style name="Theme.GameRate" parent="Base.Theme.GameRate" />
+</resources>
